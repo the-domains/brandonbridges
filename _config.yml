@@ -1,6 +1,6 @@
 name: BrandonBridges
 favicon: null
-layout_spectrum: 0.26793
+layout_spectrum: 0
 typography_spectrum: 0.79958
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a9b7ba'
-    - '#9b856d'
-    - '#f0e3d2'
-    - '#684a2e'
-    - '#1f160d'
-  brandStrength: 0.9634727577213198
-  lightness: 0.611124699935317
-  saturation: 0.1875
-  rhythmicContrast: 0.5750466147437692
+    - '#fffbe8'
+    - '#e1b55e'
+    - '#191012'
+    - '#a2613c'
+    - '#5f251b'
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
