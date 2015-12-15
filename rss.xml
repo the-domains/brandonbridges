@@ -4,7 +4,7 @@
         <description><![CDATA[BrandonBridges]]></description>
         <link>https://thegrid.ai/brandonbridges/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 09:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 09:54:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brandonbridges/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Readings from the new federalist]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Hello World!]]></title>
-            <description><![CDATA[<article><h1>Hello World!</h1><p>Hello World! For those of you who don't know, the phrase "Hello World!" has been used by computer programmers for many years in the creative process to test a program's ability to instantiate, prior to receiving any logical operators.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Hello World!</h1><p>The phrase "Hello World!" has been used by computer programmers (software architects) for many years during the creative process to test a program's ability to instantiate, given hardware environment and prior to receiving any logical operators.</p></article>]]></description>
             <link>https://thegrid.ai/brandonbridges/hello-world/index.html</link>
             <guid isPermaLink="false">d3b82f1b-96c6-405f-acdd-7feaf10d21a0</guid>
-            <pubDate>Tue, 15 Dec 2015 06:10:48 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 09:54:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
