@@ -4,8 +4,15 @@
         <description><![CDATA[Hard work beats talent...]]></description>
         <link>https://thegrid.ai/brandonbridges/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 23:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 20:30:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brandonbridges/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Despite comprising only</p>]]></description>
+            <link>https://thegrid.ai/brandonbridges/52f52d1f-25c7-401e-b189-36d3706f8455/index.html</link>
+            <guid isPermaLink="false">52f52d1f-25c7-401e-b189-36d3706f8455</guid>
+            <pubDate>Sun, 03 Apr 2016 20:30:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"With malice toward none...(and)...charity for all. With firmness in...(what is good)... as... (infinite)... gives us to see...(what is good)... Let us strive on to finish the work we are in. To bind up...(our)...wounds. To care for... (they)...who have borne the battle and for...(those who depended on they)...to do all which may achieve and cherish a just and lasting peace among ourselves and with all..." -Abraham Lincoln</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/brandonbridges/lincolnfeb231861/index.html</link>
             <guid isPermaLink="false">1e5bcbbb-885b-4def-98f0-52c51419dd82</guid>
             <pubDate>Fri, 18 Dec 2015 15:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Selfies]]></title>
-            <description><![CDATA[<article><h1>Selfies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fda2a6400e162334e49465c99f0ecab6d451a99f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/brandonbridges/67b7bbb8-1933-46cf-a97f-dbbe23e3d0d2/index.html</link>
-            <guid isPermaLink="false">67b7bbb8-1933-46cf-a97f-dbbe23e3d0d2</guid>
-            <pubDate>Fri, 01 Jan 2016 23:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
